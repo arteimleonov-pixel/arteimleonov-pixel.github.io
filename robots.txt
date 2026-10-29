@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arteimleonov-pixel.github.io/sitemap.xml
